@@ -1,8 +1,0 @@
-hello to smartgit
-
-
-this is the first change in the file.
-
-
-
-i want to apply that changes in the file.........................
